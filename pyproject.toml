@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "beyond-the-basic-stuff"
+version = "0.1.0"
+description = ""
+authors = ["Michael Madden <mikemadden42@icloud.com>"]
+license = "MIT"
+readme = "README.md"
+packages = [{include = "beyond_the_basic_stuff"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
