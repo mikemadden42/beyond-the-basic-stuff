@@ -10,7 +10,7 @@ Just as the smell of gas can indicate a gas leak or the smell of smoke could ind
 
 Print debugging is deceptively quick and simple. But it often requires multiple iterations of rerunning the program before you display the information you need to fix your bug.
 
-“Thing to help people escape really fast if there’s a problem and everything is on fire so they decide not to go to space” might be easier to understand for a lay audience than “Launch Escape System.” But it’s too verbose for NASA engineers to say in their day-to-day work.
+“Thing to help people escape really fast if there’s a problem and everything is on fire, so they decide not to go to space” might be easier to understand for a lay audience than “Launch Escape System.” But it’s too verbose for NASA engineers to say in their day-to-day work.
 Sweigart, Al. Beyond the Basic Stuff with Python (p. 107). No Starch Press. Kindle Edition. 
 https://xkcd.com/1133/
 
